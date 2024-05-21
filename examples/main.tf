@@ -1,10 +1,10 @@
 module testns {
-    source = "../"
-    name = "testns"
-    annotations = {
-        new = "application"
-    }
-    labels = {
-        createdby = "ivanababec"
-    }
+  source = "../"
+  name = "testns"
+  annotations = {
+    new = "application"
+  }
+  labels = {
+    createdby = "ivanababec"
+  }
 }
